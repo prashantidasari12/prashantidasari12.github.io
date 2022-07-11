@@ -54,7 +54,7 @@ homeTemplate.innerHTML = `
     <div class="home-main-body">
         <h1>Hi, Welcome to my e-Portfolio!</h1>
         <div class="profile-pic">
-            <img alt="profile-pic" src="./images/DSC_0100.jpeg">
+            <img alt="profile-pic" src="./images/profile-pic.jpeg">
         </div>
         <p class="aim">
             My aim is to create scalable web applications with easy user interface by combining technology and design
